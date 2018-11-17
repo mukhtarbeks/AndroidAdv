@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Lab5</string>
+
+  <string name="clicked_movie">clicked_movie</string>
+</resources>
